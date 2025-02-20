@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 <!--
 **luojiaaoo/luojiaaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Coding Skill:
+### Coding Skill:
 
 ✅️Python、SQL、Bash Shell、Plotly Dash、Makefile
 
 ⭐CSS、Javascript、C、Bat
 
-## DevOps Skill:
+### DevOps Skill:
 
 Jenkins Pipeline、BlueKing Devops
 
-## Vehicle Skill:
+### Vehicle Skill:
 
 UDS、CanBus Dev For Python、Autosar
 
-## Tool Skill:
+### Tool Skill:
 
 Git、Mercurial、Vscode、Pycharm
