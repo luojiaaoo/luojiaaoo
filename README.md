@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Coding Skill:
+
+✅️Python、SQL、Bash Shell、Plotly Dash、Makefile
+
+⭐CSS、Javascript、C、Bat
+
+## DevOps Skill:
+
+Jenkins Pipeline、BlueKing Devops
+
+## Vehicle Skill:
+
+UDS、CanBus Dev For Python、Autosar
+
+## Tool Skill:
+
+Git、Mercurial、Vscode、Pycharm
