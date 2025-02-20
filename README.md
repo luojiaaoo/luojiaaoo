@@ -23,7 +23,13 @@ Here are some ideas to get you started:
 
 ### DevOps Skill:
 
-Jenkins Pipeline、BlueKing Devops
+**System**: Linux-Redhat、Windows
+
+**virtualization platform**: Vmware VCenter Esxi、Workstation
+
+**Hardware**: Rack server assembly and maintenance
+
+**DevOps platform**: Jenkins Pipeline、BlueKing Devops
 
 ### Vehicle Skill:
 
