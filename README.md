@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 | Type            |                                            |
 | --------------- | ------------------------------------------ |
-| System          | ✅️Linux Distribution from Red Hat、✅️Windows |
+| System          | ✅️Linux Distribution from Red Hat、⭐Windows |
 | Virtualization  | ✅️Vmware(VCenter/Esxi/Workstation)          |
 | Hardware        | ✅️PC Server assembly and maintenance        |
 | DevOps Platform | ✅️Jenkins Pipeline/✅️BlueKing Devops         |
@@ -59,6 +59,12 @@ Here are some ideas to get you started:
 ⭐Vscode
 
 ⭐Pycharm
+
+#### Database Skill:
+
+✅️Oracle
+
+⭐Mysql
 
 #### Learning Skill:
 
