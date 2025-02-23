@@ -15,26 +15,53 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Coding Skill:
+#### Coding Skill:
 
-✅️Python、SQL、Bash Shell、Plotly Dash、Makefile
+✅️Python
 
-⭐CSS、Javascript、C、Bat
+✅️SQL
 
-### DevOps Skill:
+✅️Bash Shell
 
-**System**: Linux-Redhat、Windows
+✅️Plotly Dash
 
-**virtualization platform**: Vmware VCenter Esxi、Workstation
+✅️Makefile
 
-**Hardware**: Rack server assembly and maintenance
+⭐CSS/Javascrip
 
-**DevOps platform**: Jenkins Pipeline、BlueKing Devops
+⭐C
 
-### Vehicle Skill:
+⭐Windows Bat
 
-UDS、CanBus Dev For Python、Autosar
+#### DevOps Skill:
 
-### Tool Skill:
+| Type            |                                            |
+| --------------- | ------------------------------------------ |
+| System          | ✅️Linux Distribution from Red Hat、✅️Windows |
+| Virtualization  | ✅️Vmware(VCenter/Esxi/Workstation)          |
+| Hardware        | ✅️PC Server assembly and maintenance        |
+| DevOps Platform | ✅️Jenkins Pipeline/✅️BlueKing Devops         |
 
-Git、Mercurial、Vscode、Pycharm
+#### Vehicle Skill:
+
+✅️UDS
+
+✅️CanBus Dev For Python
+
+⭐Autosar
+
+#### Tool Skill:
+
+✅️Mercurial
+
+⭐Git
+
+⭐Vscode
+
+⭐Pycharm
+
+#### Learning Skill:
+
+🎉C++
+
+🎉Rust
