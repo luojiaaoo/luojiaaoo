@@ -71,3 +71,5 @@ Here are some ideas to get you started:
 🎉C++
 
 🎉Rust
+
+🎉LLM Dev
