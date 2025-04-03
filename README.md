@@ -68,8 +68,10 @@ Here are some ideas to get you started:
 
 #### Learning Skill:
 
-🎉C++
+🎉C++ [https://www.bilibili.com/cheese/play/ss36077?csource=common_myclass_purchasedlecture_null&spm_id_from=333.874.selfDef.mine_paid_list](https://www.bilibili.com/cheese/play/ss36077?csource=common_myclass_purchasedlecture_null&spm_id_from=333.874.selfDef.mine_paid_list)
 
 🎉Rust
 
 🎉LLM Dev
+
+🎉Ansible  [https://blog.csdn.net/m0_37789876/article/details/146464788?spm=1001.2014.3001.5501](https://blog.csdn.net/m0_37789876/article/details/146464788?spm=1001.2014.3001.5501)
